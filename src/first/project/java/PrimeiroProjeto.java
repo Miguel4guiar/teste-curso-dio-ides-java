@@ -11,5 +11,5 @@ public class PrimeiroProjeto {
 		gato gato = new gato();
 		System.out.println(gato);
 	}
-System.out.println("Hello, world!")
+
 }
